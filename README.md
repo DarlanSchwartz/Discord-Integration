@@ -7,7 +7,7 @@
 3. Go to `Integrations` and click on `Create Webhook`.
 4. Click on `Copy Webhook URL` and save it somewhere.
 
-<img src="./images/create_channel_and_webhook.gif"/>
+<img width="100%" align="center" src="./images/create_channel_and_webhook.gif"/>
 
 5. Go to the repository where you want to integrate discord.
 6. Go to `Settings` -> `Webhooks` -> `Add Webhook`.
@@ -17,10 +17,14 @@
 10. Click on `Add Webhook`.
 11. If everything is set up correctly, you will see a green ✔️ tick mark next to the webhook URL.
 
-<img src="./images/add_github_webhook.gif"/>
+<img width="100%" align="center" src="./images/add_github_webhook.gif"/>
 
 
 ### Now, whenever the selected events occur in the repository, a message will be sent to the discord channel.
 
-<img src="./images/discord_message.gif"/>
+<div align="center">
+    <img width="100%" src="./images/discord_message.gif"/>
+    <img width="100%" src="./images/discord_message_2.gif"/>
+    <img width="100%" src="./images/discord_messages_print.png"/>
+</div>
 
