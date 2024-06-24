@@ -1,4 +1,10 @@
-﻿# Discord-Integration
+﻿<img src="https://pbs.twimg.com/profile_images/1609033758497202176/7QBpkbA5_400x400.jpg" width="60px" heigth="60px" align="right"/> 
+
+# Github Discord Integration 
+
+If you want to integrate Discord with your GitHub repository, you can use Discord Webhook through your own server to send messages to a text channel in your Discord server. This is useful when you want to send messages to a Discord channel from your own server/website.
+
+If you need to send your messages from your server/website to a Discord channel , checkout this [README_API.md](./README_API.md) for more.
 
 ## Steps
 
